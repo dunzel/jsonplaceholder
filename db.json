@@ -7,6 +7,14 @@
       "theme": "light",
       "last_login": "2020-12-18T19:16:01.924Z",
       "standard_view_type": 1
+    },
+    { 
+      "id": 2,
+      "email": "foo.bar@rwth-aachen.de", 
+      "password_hash": "abcd8cd98f00b204e9800998ecf8427e",
+      "theme": "dark",
+      "last_login": "2020-10-11T12:12:12.924Z",
+      "standard_view_type": 2
     }
   ] 
 }
